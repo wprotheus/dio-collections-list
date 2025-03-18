@@ -2,7 +2,7 @@
 
 ## Autor  
 🔸[wprotheus](https://github.com/wprotheus)
-  
+
 ---
 
 ## Operações Básicas com List  

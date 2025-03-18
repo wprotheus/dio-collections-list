@@ -1,4 +1,4 @@
-package List.Ordenacao;
+package Ordenacao;
 
 public class Numero implements Comparable<Numero> {
     private int numero;

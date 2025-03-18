@@ -1,4 +1,4 @@
-package List.PesquisaEmList;
+package PesquisaEmList;
 
 public class Numero {
     private int numero;

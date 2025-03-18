@@ -1,4 +1,4 @@
-package List.PesquisaEmList;
+package PesquisaEmList;
 
 import java.util.ArrayList;
 import java.util.List;
