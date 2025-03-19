@@ -7,7 +7,7 @@
 
 ## Operações Básicas com List  
 
-Exercício realizado conforme instruções abaixo, retiradas do [README.md](https://github.com/wprotheus/collections-java-api-2023/blob/master/out/production/collections-java-api-2023/main/java/list/README.md)
+Exercício realizado conforme instruções abaixo, retiradas do [README.md](https://github.com/cami-la/collections-java-api-2023/blob/master/src/main/java/list/README.md)
 
 #### 1. Lista de Tarefas
 Crie uma classe chamada "ListaTarefas" que possui uma lista de tarefas como atributo. Cada tarefa é representada por uma classe chamada "Tarefa" que possui um atributo de descrição. Implemente os seguintes métodos:
